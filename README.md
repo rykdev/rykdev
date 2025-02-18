@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @rykdev
+- 👋 Hi, I’m Raphael!
 - 👀 I’m interested in contributing to ... open source
 - 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... let's see..
 - 📫 How to reach me ... here
-- 😄 Pronouns: ... he
+- 😄 Hobbies: ..spacing out watching astro/quantum physics vids
 - ⚡ Fun fact: ... its turtles and crabs all the way down..
 
-<!---
-rykdev/rykdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's all just get along!
